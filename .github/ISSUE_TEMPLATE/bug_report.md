@@ -11,6 +11,8 @@ assignees: ''
 **Game version and branch**
 You can find this by pressing the menu button on the top left (or the M key) and then navigating to the About tab. At the bottom right of the window, there should be information that describes the game version and branch.
 
+If you are on the experimental version of the game, please assign the "experimental" label to this issue.
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
